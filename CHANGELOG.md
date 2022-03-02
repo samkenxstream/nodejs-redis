@@ -4,6 +4,14 @@
 
 [1]: https://www.npmjs.com/package/nodejs-redis?activeTab=versions
 
+## [2.5.0](https://github.com/googleapis/nodejs-redis/compare/v2.4.0...v2.5.0) (2022-03-02)
+
+
+### Features
+
+* Add automated RDB (AKA persistence) ([#544](https://github.com/googleapis/nodejs-redis/issues/544)) ([3fe6859](https://github.com/googleapis/nodejs-redis/commit/3fe68596d177436d56f626757536cc63dc045ea7))
+* add secondary_ip_range field ([#549](https://github.com/googleapis/nodejs-redis/issues/549)) ([c454a54](https://github.com/googleapis/nodejs-redis/commit/c454a542480628c655b1fcfcab52b8f9457cdcb4))
+
 ## [2.4.0](https://www.github.com/googleapis/nodejs-redis/compare/v2.3.1...v2.4.0) (2021-11-10)
 
 
